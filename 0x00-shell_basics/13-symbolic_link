@@ -1,3 +1,3 @@
 #!/bin/bash
-ln -s /bin/ls _is_
+ln -s /bin/ls _ _ls_ _
 
